@@ -1,19 +1,20 @@
 .titulo{
 font-size:30px;
 font-style:Georgia;
+color: aliceblue;
 align-items: start;
 }
 
 .opcao{
 font-size:30px;
 font-style:Georgia;
+color: aliceblue;
 align-items: end;
 margin-left: 900px;
 }
 
 .centro{
 background-image: url("images/disneysouluna.jpg");
-
 position: relative;
 display: flex;
 margin: 0%;
