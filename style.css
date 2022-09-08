@@ -11,6 +11,5 @@ align-items: end;
 }
 
 .container {
-background-image: url('../images/DisneyChannel.png');
 display: flex;
 }
