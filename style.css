@@ -12,8 +12,8 @@ margin-left: 900px;
 }
 
 .centro{
-background-color: blueviolet;
+background-image: url("images/DisneyChannel.jpg"); 
 position: relative;
 display: flex;
-margin: 0%;
+margin: 0px;
 }
