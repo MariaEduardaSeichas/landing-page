@@ -2,6 +2,7 @@
 font-size:30px;
 font-style:italic;
 align-items: start;
+display: flex;
 }
 
 .opcao{
@@ -10,6 +11,3 @@ font-style:italic;
 align-items: end;
 }
 
-.container {
-display: flex;
-}
