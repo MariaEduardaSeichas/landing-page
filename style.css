@@ -10,9 +10,4 @@ font-style:italic;
 
 .container {
 background-image: url('../images/DisneyChannel.png');
-background-repeat: no-repeat;
-position: relative;
-background-repeat:no-repeat;
-background-size:contain;
-background-position:center;
 }
