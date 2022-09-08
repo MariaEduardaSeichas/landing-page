@@ -1,8 +1,12 @@
 .titulo{
-font-size:80px;
+font-size:30px;
 font-style:italic;
 }
 
+.opcao{
+font-size:30px;
+font-style:italic;
+}
 .disney{
 width: 30px;
 left: 20px;
