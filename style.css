@@ -1,18 +1,19 @@
 .titulo{
 font-size:30px;
-font-style:italic;
+font-style:Georgia;
 align-items: start;
 }
 
 .opcao{
 font-size:30px;
-font-style:italic;
+font-style:Georgia;
 align-items: end;
 margin-left: 900px;
 }
 
 .centro{
-background-image: url("images/Disney-Channel-Portugal.jpg");
+background-image: url("images/disneysouluna.jpg");
+width: 500px;
 height: 400px; 
 position: relative;
 display: flex;
