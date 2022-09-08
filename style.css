@@ -15,8 +15,8 @@ margin-left: 900px;
 
 .centro{
 background-image: url("images/disneysouluna.jpg");
-width: 3000px;
-height: 2000px;
+width: 2000px;
+height: 1000px;
 object-fit: scale-down;
 position: relative;
 display: flex;
