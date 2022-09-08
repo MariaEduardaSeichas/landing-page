@@ -8,9 +8,12 @@ font-size:30px;
 font-style:italic;
 }
 
-.disney{
-width: 60px;
-left: 40px;
+.container {
+background-image: url('../images/DisneyChannel.png');
+background-repeat: no-repeat;
 position: relative;
-top: 10px;
+height: 100vh;
+width: 100vw;
+margin-left: auto;
+margin-right: auto;
 }
