@@ -8,11 +8,14 @@ align-items: start;
 font-size:30px;
 font-style:italic;
 align-items: end;
+margin-left: 20px;
 }
 
 .centro{
-background-color: blueviolet;
+background-image:url('../images/DisneyChannel.png');
 position: relative;
 top: 10px;
 display: flex;
+margin: 0%;
+
 }
