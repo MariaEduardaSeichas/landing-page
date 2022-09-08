@@ -10,6 +10,6 @@ font-style:italic;
 
 .centro{
 background-color: blueviolet;
-width: 800px;
-height: 700px;
+position: relative;
+top: 15px;
 }
