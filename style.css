@@ -1,15 +1,18 @@
 .titulo{
 font-size:30px;
 font-style:italic;
+align-items: start;
 }
 
 .opcao{
 font-size:30px;
 font-style:italic;
+align-items: end;
 }
 
 .centro{
 background-color: blueviolet;
 position: relative;
-top: 15px;
+top: 10px;
+display: flex;
 }
