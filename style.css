@@ -1,0 +1,19 @@
+.titulo{
+font-size:30px;
+font-style:italic;
+align-items: start;
+}
+
+.opcao{
+font-size:30px;
+font-style:italic;
+align-items: end;
+margin-left: 700px;
+}
+
+.centro{
+background-color: blueviolet;
+position: relative;
+display: flex;
+margin: 0%;
+}
