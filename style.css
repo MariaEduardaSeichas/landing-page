@@ -1,13 +1,10 @@
 .titulo{
 font-size:30px;
 font-style:italic;
-align-items: start;
-display: flex;
 }
 
 .opcao{
 font-size:30px;
 font-style:italic;
-align-items: end;
 }
 
