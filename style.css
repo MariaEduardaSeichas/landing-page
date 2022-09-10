@@ -21,10 +21,10 @@ background-size: cover;
 border-bottom: 60px;
 display: flex;
 }
-
-.seguimento {
+.wrapper {
     display: grid;
-    grid-template-columns: repeat(6, 3fr);
-    grid-auto-rows: 700px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
   }
+  
  
