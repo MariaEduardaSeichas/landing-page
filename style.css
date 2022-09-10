@@ -30,6 +30,7 @@ display: flex;
   .paragrafo1{
     font-style: italic;
     font-size: 40px;
+    text-align: center;
   }
 
   .h1{
@@ -40,5 +41,6 @@ display: flex;
   .picapau{
     width: 500px;
     height: 400px;
+    float: left;
   }
   
