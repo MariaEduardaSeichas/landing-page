@@ -24,7 +24,7 @@ display: flex;
 
 .seguimento {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-auto-rows: 700px;
   }
   .paragrafo1{
@@ -38,6 +38,20 @@ display: flex;
   }
 
   .picapau{
+    width: 500px;
+    height: 400px;
+  }
+
+  .paragrafo2{
+    font-style: italic;
+    font-size: 50px;
+  }
+
+  .h2{
+    font-size: 40px;
+    font-style: italic;
+  }
+  .icarly{
     width: 500px;
     height: 400px;
   }
