@@ -27,4 +27,16 @@ display: flex;
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: 200px;
   }
-  
+  .paragrafo1{
+    font-style: italic;
+    font-size: 70px;
+  }
+
+  .h1{
+    font-size: 30px;
+  }
+
+  .picapau{
+    width: 500px;
+    height: 400px;
+  }
