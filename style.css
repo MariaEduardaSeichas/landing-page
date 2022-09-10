@@ -30,12 +30,11 @@ display: flex;
 .primeiro{
     font-size: 30px;
     font-style: italic;
-    text-align: center;
+
 }
 .paragrafopri{
-    font-size: 200%;
+    font-size: 400%;
     font-style: italic;
-    text-align: center;
 }
 
 .picapau{
