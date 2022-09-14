@@ -29,9 +29,8 @@ display: flex;
 
 }
 .paragrafopri{
-    font-size: 50px;
+    font-size: 70px;
     font-style: italic;
-    position: relative;
     
 }
 
@@ -39,9 +38,8 @@ display: flex;
     max-width: 900px;
     max-height: 800px;
     position: relative;
+    float: right;
     display: flex;
-    top:50%;
-
 }
 
 
