@@ -21,7 +21,7 @@ background-size: cover;
 border-bottom: 60px;
 display: flex;
 }
-.conainer{
+.container{
     width: 100px;
     height: 50px;
   }
@@ -29,12 +29,14 @@ display: flex;
 .primeiro{
     font-size: 30px;
     font-style: italic;
+    position: relative;
     display: flex;
 
 }
 .paragrafopri{
     font-size: 50px;
     font-style: italic;
+    position: relative;
     display: flex;
 }
 
@@ -44,6 +46,8 @@ display: flex;
     position: relative;
     float: right;
     display: flex;
+    top:-10px;
+
 }
 
 
