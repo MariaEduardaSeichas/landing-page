@@ -35,8 +35,8 @@ display: flex;
 }
 
 .picapau{
-    max-width: 900px;
-    max-height: 800px;
+    max-width: 500px;
+    max-height: 400px;
     position: relative;
     float: right;
     display: flex;
