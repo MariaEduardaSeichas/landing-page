@@ -35,11 +35,12 @@ display: flex;
 }
 
 .picapau{
-    max-width: 500px;
-    max-height: 400px;
+    max-width: 400px;
+    max-height: 300px;
     position: relative;
     float: right;
     display: flex;
+    top: 20px;
 }
 
 
