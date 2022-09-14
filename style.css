@@ -21,20 +21,23 @@ background-size: cover;
 border-bottom: 60px;
 display: flex;
 }
-.desenvolvimento {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 300px;
+.container{
+    width: 100px;
+    height: 50px;
   }
 
 .primeiro{
     font-size: 30px;
     font-style: italic;
+    display: flex;
+    flex-direction: row;
 
 }
 .paragrafopri{
     font-size: 50px;
     font-style: italic;
+    display: flex;
+    flex-direction: row;
 }
 
 .picapau{
@@ -42,6 +45,8 @@ display: flex;
     max-height: 800px;
     position: relative;
     float: right;
+    display: flex;
+    flex-direction: row;
 }
 
 
