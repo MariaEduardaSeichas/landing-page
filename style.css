@@ -21,7 +21,7 @@ background-size: cover;
 border-bottom: 60px;
 display: flex;
 }
-.container{
+.conainer{
     width: 100px;
     height: 50px;
   }
@@ -29,23 +29,21 @@ display: flex;
 .primeiro{
     font-size: 30px;
     font-style: italic;
-    
-    
+    display: flex;
 
 }
 .paragrafopri{
     font-size: 50px;
     font-style: italic;
-    
-    
+    display: flex;
 }
 
 .picapau{
-    min-height: 200px;
-    min-width: 100px;
-    float: left;
+    max-width: 900px;
+    max-height: 800px;
     position: relative;
-    
+    float: right;
+    display: flex;
 }
 
 
