@@ -32,6 +32,7 @@ display: flex;
     font-size: 50px;
     font-style: italic;
     position: relative;
+    text-align: center;
     
 }
 
@@ -41,7 +42,7 @@ display: flex;
     position: relative;
     float: right;
     display: flex;
-    top:10%;
+    top:5%;
 
 }
 
