@@ -36,19 +36,13 @@ display: flex;
 .paragrafopri{
     font-size: 50px;
     font-style: italic;
-    display: flex;
-    flex-direction: row-reverse ;
-    justify-content: flex-end;
+    
 }
 
 .picapau{
     max-width: 900px;
     max-height: 800px;
     position: relative;
-    float: right;
-    display: flex;
-    flex-direction: row-reverse ;
-    justify-content: flex-end;
 }
 
 
