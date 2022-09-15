@@ -42,7 +42,6 @@ display: flex;
 
 .lado{
     position: relative;
-    float: right;
     display: flex;
     width: 500px;
     height: 390px;  
