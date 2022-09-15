@@ -15,8 +15,8 @@ margin-left: 600px;
 
 .centro{
 background-image: url("images/descendentes.jpg");
-height: 50vh;
-min-height: 100px;
+height: 70vh;
+min-height: 300px;
 background-size: cover;
 border-bottom: 60px;
 display: flex;
