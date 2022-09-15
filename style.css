@@ -44,12 +44,12 @@ display: flex;
     width: 500px;
     height: 390px;
     position: relative;
-    float: left;
+    float: right;
 }
 
 .art{
     position: relative;
-    float: left;
+    float: right;
     width: 500px;
     height: 390;
 }
