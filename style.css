@@ -98,20 +98,20 @@ display: flex;
 }
 
 .div1{
-    background-color: blueviolet;
+    background-color: #E6E6FA;
 }
 .div2{
-    background-color: rgb(43, 101, 226);
+    background-color: #E6E6FA;
 }
 .div3{
-    background-color: rgb(226, 43, 43);
+    background-color:#E6E6FA;
 }
 .div4{
-    background-color: rgb(162, 226, 43);
+    background-color:#E6E6FA;
 }
 .div5{
-    background-color: rgb(226, 43, 134);
+    background-color: #E6E6FA;
 }
 .div6{
-    background-color: rgb(43, 168, 226);
+    background-color:#E6E6FA;
 }
