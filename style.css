@@ -41,10 +41,10 @@ display: flex;
 }
 
 .lado{
-    position: relative;
-    display: flex;
+    background-color: rgb(219, 101, 200);
     width: 500px;
-    height: 390px;  
+    height: 390px;
+    display: flex; 
     float: left;
 }
 
