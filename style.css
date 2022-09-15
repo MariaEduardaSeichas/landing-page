@@ -40,14 +40,14 @@ display: flex;
     
 }
 
-.arthur{
-    max-width: 500px;
-    max-height: 300px;
+.lado{
     position: relative;
     float: right;
     display: flex;
     top:200%;
     margin-top:-150px;
+    width: 500px;
+    height: 390px;  
 }
 
 
