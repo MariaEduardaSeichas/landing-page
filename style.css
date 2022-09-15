@@ -24,6 +24,8 @@ display: flex;
 
 .container{
     background-color: aqua;
+    width: 500px;
+    height: 390px;
 }
 
 .primeiro{
@@ -44,8 +46,8 @@ display: flex;
     position: relative;
     float: right;
     display: flex;
-    top:150%;
-    margin-top:-100px;
+    top:200%;
+    margin-top:-150px;
 }
 
 
