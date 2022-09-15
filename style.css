@@ -57,6 +57,7 @@ display: flex;
     position: relative;
     float: right;
     height: 50vh;
+    right: 50px;
   
 }
 
