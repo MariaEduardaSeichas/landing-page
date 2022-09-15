@@ -62,7 +62,7 @@ display: flex;
 }
 
 .segundo{
-    font-size: 45px;
+    font-size: 25px;
     font-style: italic;
     height: 70vh;
     min-height: 300px;
@@ -92,7 +92,7 @@ display: flex;
         min-width: 500px;
 }
 .prims{
-    font-size: 35px;
+    font-size: 40px;
     font-style: italic;
     position: relative; 
 }
