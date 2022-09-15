@@ -61,6 +61,21 @@ display: flex;
   
 }
 
+.segundo{
+    font-size: 45px;
+    font-style: italic;
+    height: 70vh;
+    min-height: 300px;
+    min-width: 900px;   
+}
+
+.meninas{
+    position: relative;
+    float: right;
+    height: 50vh;
+    min-height: 400px;
+    min-width: 500px;
+}
 
   
  
