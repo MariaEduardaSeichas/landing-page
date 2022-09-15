@@ -55,8 +55,8 @@ display: flex;
 .art{
     position: relative;
     float: right;
-    height: 300vh;
-    min-height: 00px;
+    height: 700vh;
+    min-height: 300px;
     min-width: 200px;
   
 }
