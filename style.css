@@ -40,7 +40,7 @@ display: flex;
     position: relative;
     float: right;
     display: flex;
-    top: 20px;
+    top: -20px;
 }
 
 
