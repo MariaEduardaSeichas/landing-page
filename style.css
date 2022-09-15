@@ -37,5 +37,29 @@ display: flex;
     .div4 { grid-area: 2 / 2 / 3 / 3; }
     .div5 { grid-area: 3 / 1 / 4 / 2; }
     .div6 { grid-area: 3 / 2 / 4 / 3; }
+
+.primeiro{
+    font-size: 30px;
+    font-style: italic;
+    position: relative;
+
+}
+.paragrafopri{
+    font-size: 45px;
+    font-style: italic;
+    height: 70vh;
+    min-height: 300px;
+    min-width: 900px;
+    
+}
+
+.art{
+    position: relative;
+    float: right;
+    height: 40vh;
+    top: -70px;
+}
+
+
   
  
