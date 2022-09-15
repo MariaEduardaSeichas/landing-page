@@ -56,8 +56,8 @@ display: flex;
     position: relative;
     float: right;
     height: 50vh;
-    min-height: 700px;
-    min-width: 900px;
+    min-height: 400px;
+    min-width: 500px;
   
 }
 
