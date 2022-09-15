@@ -41,7 +41,6 @@ display: flex;
 }
 
 .lado{
-    background-color: rgb(219, 101, 200);
     width: 500px;
     height: 390px;
     position: relative;
@@ -49,6 +48,8 @@ display: flex;
 }
 
 .art{
+    position: relative;
+    float: left;
     width: 500px;
     height: 390;
 }
