@@ -45,20 +45,10 @@ display: flex;
     
 }
 
-.lado{
-    height: 70vh;
-    min-height: 300px;
-    min-width: 900px;
-    position: relative;
-    float: right;
-}
-
 .art{
     position: relative;
     float: right;
     height: 70vh;
-    min-height: 300px;
-    min-width: 900px;
 }
 
 
