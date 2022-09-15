@@ -96,4 +96,22 @@ display: flex;
     font-style: italic;
     position: relative; 
 }
- 
+
+.div1{
+    background-color: blueviolet;
+}
+.div2{
+    background-color: rgb(43, 101, 226);
+}
+.div3{
+    background-color: rgb(226, 43, 43);
+}
+.div4{
+    background-color: rgb(162, 226, 43);
+}
+.div5{
+    background-color: rgb(226, 43, 134);
+}
+.div6{
+    background-color: rgb(43, 168, 226);
+}
