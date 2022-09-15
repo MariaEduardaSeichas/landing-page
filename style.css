@@ -39,7 +39,7 @@ display: flex;
     .div6 { grid-area: 3 / 2 / 4 / 3; }
 
 .primeiro{
-    font-size: 30px;
+    font-size: 35px;
     font-style: italic;
     position: relative;
 
@@ -56,8 +56,8 @@ display: flex;
 .art{
     position: relative;
     float: right;
-    height: 40vh;
-    top: -70px;
+    height: 90vh;
+  
 }
 
 
