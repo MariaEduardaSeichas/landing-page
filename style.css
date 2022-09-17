@@ -44,7 +44,7 @@ display: flex;
 
 }
 .paragrafopri{
-    font-size: 55px;
+    font-size: 45px;
     font-style: italic;
     height: 75vh;
     min-height: 800px;
@@ -54,13 +54,13 @@ display: flex;
 
 .art{
     float: left;
-    height: 100vh;
+    height: 200vh;
     min-height: 300px;
     min-width: 900px;
 }
 
 .segundo{
-    font-size: 30px;
+    font-size: 40px;
     font-style: italic;
     height: 90vh;
     min-height: 300px;
@@ -96,23 +96,23 @@ display: flex;
 
 .div1{
     background-color: #e9eea0;
-    height: 400px;
+    height: 500px;
 }
 .div2{
     background-color: #d3eeee;
-    height: 400px;
+    height: 500px;
 }
 .div3{
     background-color:#F5FFFA;
-    height: 400px;
+    height: 500px;
 }
 .div4{
     background-color: #F0FFF0;
-    height: 400px;
+    height: 500px;
 }
 .div5{
     background-color:#FDF5E6;
-    height: 400px;
+    height: 500px;
 }
 .div6{
     background-color:#FFFFF0;
