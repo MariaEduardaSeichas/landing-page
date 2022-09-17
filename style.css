@@ -54,7 +54,8 @@ display: flex;
 
 .art{
     float: left;
-    height: 400vh;
+    height: 100vh;
+    min-height: 400px;
 }
 
 .segundo{
@@ -98,15 +99,19 @@ display: flex;
 }
 .div2{
     background-color: #d3eeee;
+    height: 400px;
 }
 .div3{
     background-color:#F5FFFA;
+    height: 400px;
 }
 .div4{
     background-color: #F0FFF0;
+    height: 400px;
 }
 .div5{
     background-color:#FDF5E6;
+    height: 400px;
 }
 .div6{
     background-color:#FFFFF0;
