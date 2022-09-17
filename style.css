@@ -44,7 +44,7 @@ display: flex;
 
 }
 .paragrafopri{
-    font-size: 50px;
+    font-size: 55px;
     font-style: italic;
     height: 70vh;
     min-height: 300px;
@@ -68,11 +68,10 @@ display: flex;
 }
 
 .meninas{
-    position: relative;
-    float: right;
-    height: 50vh;
-    min-height: 400px;
-    min-width: 500px;
+    float: left;
+    height: 70vh;
+    min-height: 300px;
+    min-width: 900px;
 }
 
 .xmen{
