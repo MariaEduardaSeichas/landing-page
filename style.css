@@ -75,18 +75,16 @@ display: flex;
 }
 
 .xmen{
-    position: relative;
-    float: right;
+    float: left;
     height: 50vh;
-    min-height: 400px;
-    min-width: 500px;
+    min-height: 600px;
+    min-width: 900px;
 }
 .image{
-        position: relative;
-        float: right;
-        height: 50vh;
-        min-height: 400px;
-        min-width: 500px;
+    float: left;
+    height: 50vh;
+    min-height: 600px;
+    min-width: 900px;
 }
 .prims{
     font-size: 40px;
