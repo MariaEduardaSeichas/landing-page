@@ -70,20 +70,20 @@ display: flex;
 .meninas{
     float: left;
     height: 50vh;
-    min-height: 600px;
+    min-height: 300px;
     min-width: 900px;
 }
 
 .xmen{
     float: left;
     height: 50vh;
-    min-height: 600px;
+    min-height: 300px;
     min-width: 900px;
 }
 .image{
     float: left;
     height: 50vh;
-    min-height: 600px;
+    min-height: 300px;
     min-width: 900px;
 }
 .prims{
@@ -94,25 +94,25 @@ display: flex;
 
 .div1{
     background-color: #e9eea0;
-    height: 400px;
+    height: 590px;
 }
 .div2{
     background-color: #d3eeee;
-    height: 400px;
+    height: 590px;
 }
 .div3{
     background-color:#F5FFFA;
-    height: 400px;
+    height: 590px;
 }
 .div4{
     background-color: #F0FFF0;
-    height: 400px;
+    height: 590px;
 }
 .div5{
     background-color:#FDF5E6;
-    height: 400px;
+    height: 590px;
 }
 .div6{
     background-color:#FFFFF0;
-    height: 400px;
+    height: 590px;
 }
