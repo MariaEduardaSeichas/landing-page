@@ -16,7 +16,7 @@ margin-left: 1200px;
 .centro{
 background-image: url("images/descendentes.jpg");
 height: 70vh;
-max-width: 9000px;
+min-width: 900px;
 min-height: 200px;
 background-size: cover;
 display: flex;
@@ -75,18 +75,16 @@ display: flex;
 }
 
 .xmen{
-    position: relative;
-    float: right;
-    height: 50vh;
-    min-height: 400px;
-    min-width: 500px;
+    float: left;
+    height: 90vh;
+    min-height: 300px;
+    min-width: 900px;
 }
 .image{
-        position: relative;
-        float: right;
-        height: 50vh;
-        min-height: 400px;
-        min-width: 500px;
+    float: left;
+    height: 90vh;
+    min-height: 300px;
+    min-width: 900px;
 }
 .prims{
     font-size: 40px;
