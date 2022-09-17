@@ -96,8 +96,6 @@ display: flex;
 
 .div1{
     background-color: #e9eea0;
-    min-width: 150px;
-    min-height: 100px;
 }
 .div2{
     background-color: #d3eeee;
