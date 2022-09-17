@@ -81,7 +81,7 @@ display: flex;
     min-width: 900px;
 }
 .image{
-    float: right;
+    float: left;
     height: 50vh;
     min-height: 600px;
     min-width: 900px;
@@ -94,25 +94,25 @@ display: flex;
 
 .div1{
     background-color: #e9eea0;
-    height: 590px;
+    height: 400px;
 }
 .div2{
     background-color: #d3eeee;
-    height: 590px;
+    height: 400px;
 }
 .div3{
     background-color:#F5FFFA;
-    height: 590px;
+    height: 400px;
 }
 .div4{
     background-color: #F0FFF0;
-    height: 590px;
+    height: 400px;
 }
 .div5{
     background-color:#FDF5E6;
-    height: 590px;
+    height: 400px;
 }
 .div6{
     background-color:#FFFFF0;
-    height: 590px;
+    height: 400px;
 }
