@@ -96,8 +96,8 @@ display: flex;
 
 .div1{
     background-color: #e9eea0;
-    height: 300px;
-    width: 200px;
+    max-width: 500px;
+    max-height: 300px;
 }
 .div2{
     background-color: #d3eeee;
