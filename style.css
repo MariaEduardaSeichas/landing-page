@@ -38,7 +38,7 @@ display: flex;
     .div6 { grid-area: 3 / 2 / 4 / 3; }
 
 .primeiro{
-    font-size: 40px;
+    font-size: 35px;
     font-style: italic;
     position: relative;
 
@@ -54,13 +54,13 @@ display: flex;
 
 .art{
     float: left;
-    height: 50vh;
-    min-height: 400px;
+    height: 100vh;
+    min-height: 300px;
     min-width: 900px;
 }
 
 .segundo{
-    font-size: 45px;
+    font-size: 30px;
     font-style: italic;
     height: 70vh;
     min-height: 300px;
@@ -69,8 +69,8 @@ display: flex;
 
 .meninas{
     float: left;
-    height: 50vh;
-    min-height: 400px;
+    height: 100vh;
+    min-height: 300px;
     min-width: 900px;
 }
 
@@ -91,7 +91,7 @@ display: flex;
 .prims{
     font-size: 40px;
     font-style: italic;
-    
+    position: relative; 
 }
 
 .div1{
@@ -116,5 +116,4 @@ display: flex;
 }
 .div6{
     background-color:#FFFFF0;
-    height: 500px;
 }
