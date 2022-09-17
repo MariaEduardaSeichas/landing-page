@@ -55,7 +55,7 @@ display: flex;
 .art{
     float: left;
     height: 50vh;
-    min-height: 500px;
+    min-height: 600px;
     min-width: 900px;
 }
 
@@ -70,7 +70,7 @@ display: flex;
 .meninas{
     float: left;
     height: 50vh;
-    min-height: 500px;
+    min-height: 600px;
     min-width: 900px;
 }
 
