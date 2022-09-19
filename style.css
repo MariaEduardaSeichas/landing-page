@@ -44,7 +44,7 @@ display: flex;
 
 }
 .paragrafopri{
-    font-size: 30px;
+    font-size: 38px;
     font-style: italic;
     height: 70vh;
     min-height: 300px;
@@ -99,7 +99,7 @@ display: flex;
 
 .div1{
     background-color: #D8BFD8;
-    height: 450px;
+    height: 500px;
 }
 .div2{
     background-color: #E0FFFF;
@@ -107,17 +107,17 @@ display: flex;
 }
 .div3{
     background-color: #f0bece;
-    height: 450px;
+    height: 500px;
 }
 .div4{
     background-color: #a7a7fa;
-    height: 450px;
+    height: 500px;
 }
 .div5{
     background-color: #fafaae;
-    height: 450px;
+    height: 500px;
 }
 .div6{
     background-color: #8ec1ee;
-    height: 450px;
+    height: 500px;
 }
