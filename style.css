@@ -55,9 +55,9 @@ display: flex;
 .art{
     position: relative;
     float: left;
-    height: 80vh;
-    min-height: 290px;
-    min-width: 230px;
+    height: 50vh;
+    min-height: 400px;
+    min-width: 200px;
   
 }
 
@@ -72,9 +72,9 @@ display: flex;
 .meninas{
     position: relative;
     float: left;
-    height: 80vh;
-    min-height: 290px;
-    min-width: 230px;
+    height: 50vh;
+    min-height: 400px;
+    min-width: 200px;
 }
 
 .xmen{
