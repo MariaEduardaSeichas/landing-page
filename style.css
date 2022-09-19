@@ -53,7 +53,6 @@ display: flex;
 }
 
 .art{
-    position: relative;
     float: left;
     height: 35vh;
     min-height: 500px;
@@ -70,7 +69,6 @@ display: flex;
 }
 
 .meninas{
-    position: relative;
     float: left;
     height: 35vh;
     min-height: 500px;
@@ -78,18 +76,17 @@ display: flex;
 }
 
 .xmen{
-    position: relative;
     float: left;
-    height: 50vh;
-    min-height: 300px;
+    height: 35vh;
+    min-height: 500px;
     min-width: 500px;
 }
 .image{
-        position: relative;
-        float: left;
-        height: 50vh;
-        min-height: 300px;
-        min-width: 500px;
+        
+    float: left;
+    height: 35vh;
+    min-height: 500px;
+    min-width: 500px;
 }
 .prims{
     font-size: 40px;
