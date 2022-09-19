@@ -55,8 +55,8 @@ display: flex;
 .art{
     position: relative;
     float: right;
-    height: 90vh;
-    min-height: 800px;
+    height: 50vh;
+    min-height: 400px;
     min-width: 500px;
   
 }
@@ -98,20 +98,26 @@ display: flex;
 }
 
 .div1{
-    background-color: blueviolet;
+    background-color: #D8BFD8;
+    height: 450px;
 }
 .div2{
-    background-color: rgb(43, 101, 226);
+    background-color: #E0FFFF;
+    height: 450px;
 }
 .div3{
-    background-color: rgb(226, 43, 43);
+    background-color: #FFF0F5;
+    height: 450px;
 }
 .div4{
-    background-color: rgb(162, 226, 43);
+    background-color: #E6E6FA;
+    height: 450px;
 }
 .div5{
-    background-color: rgb(226, 43, 134);
+    background-color: #FFFFF0;
+    height: 450px;
 }
 .div6{
-    background-color: rgb(43, 168, 226);
+    background-color: #F0F8FF;
+    height: 450px;
 }
