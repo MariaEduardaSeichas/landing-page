@@ -54,9 +54,9 @@ display: flex;
 
 .art{
     position: relative;
-    float: right;
+    float: left;
     height: 50vh;
-    min-height: 400px;
+    min-height: 300px;
     min-width: 500px;
   
 }
@@ -71,24 +71,24 @@ display: flex;
 
 .meninas{
     position: relative;
-    float: right;
+    float: left;
     height: 50vh;
-    min-height: 400px;
+    min-height: 300px;
     min-width: 500px;
 }
 
 .xmen{
     position: relative;
-    float: right;
+    float: left;
     height: 50vh;
-    min-height: 400px;
+    min-height: 300px;
     min-width: 500px;
 }
 .image{
         position: relative;
-        float: right;
+        float: left;
         height: 50vh;
-        min-height: 400px;
+        min-height: 300px;
         min-width: 500px;
 }
 .prims{
