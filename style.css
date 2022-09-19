@@ -16,8 +16,8 @@ margin-left: 1200px;
 .centro{
 background-image: url("images/descendentes.jpg");
 height: 70vh;
-min-width: 300px;
-min-height: 200px;
+min-height: 300px;
+min-width: 900px;
 background-size: cover;
 display: flex;
 }
@@ -44,44 +44,49 @@ display: flex;
 
 }
 .paragrafopri{
-    font-size: 45px;
+    font-size: 30px;
     font-style: italic;
-    height: 75vh;
-    min-height: 800px;
+    height: 70vh;
+    min-height: 300px;
     min-width: 900px;
     
 }
 
 .art{
-    float: left;
+    position: relative;
+    float: right;
     height: 90vh;
-    min-height: 900px;
-    min-width: 900px;
+    min-height: 800px;
+    min-width: 500px;
+  
 }
 
 .segundo{
-    font-size: 40px;
+    font-size: 30px;
     font-style: italic;
-    height: 90vh;
+    height: 70vh;
     min-height: 300px;
     min-width: 900px;   
 }
 
 .meninas{
-    float: left;
-    height: 90vh;
-    min-height: 300px;
-    min-width: 900px;
+    position: relative;
+    float: right;
+    height: 50vh;
+    min-height: 400px;
+    min-width: 500px;
 }
 
 .xmen{
-    float: left;
+    position: relative;
+    float: right;
     height: 50vh;
     min-height: 400px;
     min-width: 500px;
 }
 .image{
-        float: left;
+        position: relative;
+        float: right;
         height: 50vh;
         min-height: 400px;
         min-width: 500px;
@@ -93,26 +98,20 @@ display: flex;
 }
 
 .div1{
-    background-color: #e9eea0;
-    height: 500px;
+    background-color: blueviolet;
 }
 .div2{
-    background-color: #d3eeee;
-    height: 500px;
+    background-color: rgb(43, 101, 226);
 }
 .div3{
-    background-color:#F5FFFA;
-    height: 500px;
+    background-color: rgb(226, 43, 43);
 }
 .div4{
-    background-color: #F0FFF0;
-    height: 500px;
+    background-color: rgb(162, 226, 43);
 }
 .div5{
-    background-color:#FDF5E6;
-    height: 500px;
+    background-color: rgb(226, 43, 134);
 }
 .div6{
-    background-color:#FFFFF0;
-    height: 500px;
+    background-color: rgb(43, 168, 226);
 }
