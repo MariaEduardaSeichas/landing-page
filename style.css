@@ -55,7 +55,7 @@ display: flex;
 .art{
     position: relative;
     float: left;
-    height: 40vh;
+    height: 60vh;
     min-height: 290px;
     min-width: 200px;
   
@@ -103,7 +103,7 @@ display: flex;
 }
 .div2{
     background-color: #E0FFFF;
-    height: 350px;
+    height: 450px;
 }
 .div3{
     background-color: #f0bece;
