@@ -33,8 +33,9 @@ display: flex;
     .div2 { grid-area: 1 / 2 / 2 / 3; }
     .div3 { grid-area: 2 / 1 / 3 / 2; }
     .div4 { grid-area: 2 / 2 / 3 / 3; }
-    
-    
+    .div5 { grid-area: 3 / 1 / 4 / 2; }
+    .div6 { grid-area: 3 / 2 / 4 / 3; }
+
 .primeiro{
     font-size: 35px;
     font-style: italic;
@@ -106,6 +107,14 @@ display: flex;
 }
 .div4{
     background-color: #a7a7fa;
+    height: 500px;
+}
+.div5{
+    background-color: #fafaae;
+    height: 500px;
+}
+.div6{
+    background-color: #8ec1ee;
     height: 500px;
 }
 .desenvolvimento{
