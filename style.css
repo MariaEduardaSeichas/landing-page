@@ -121,9 +121,7 @@ display: flex;
     background-color: #D8BFD8;
     min-height: 700px;
     min-width: 2000px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+    
 }
 
 .texto{
