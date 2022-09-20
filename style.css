@@ -136,4 +136,16 @@ display: flex;
 
 .rodapé{
     background-color: #D8BFD8;
+    min-height: 700px;
+    min-width: 2000px;
+}
+
+.roda{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.rod{
+    font-size: 40px;
+    font-style: italic; 
 }
