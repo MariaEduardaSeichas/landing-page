@@ -120,10 +120,10 @@ display: flex;
 }
 .desenvolvimento{
     background-color: #FFE4E1;
-    min-height: 300px;
-    min-width: 1000px;
+    max-height: 300px;
+    max-width: 1000px;
     position: relative;
-    top: -5px;
+    margin-top: 5px;
 }
 
 .desenvolvi{
