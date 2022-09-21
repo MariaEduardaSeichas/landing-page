@@ -120,5 +120,14 @@ display: flex;
 }
 .desenvolvimento{
     background-color: #FFE4E1;
-    height: 800px;
+    height: 600px;
+}
+
+.desenvolvi{
+  font-style: italic;
+  font-size: 30px;
+}
+
+.eu{
+    border-radius: 50%;
 }
