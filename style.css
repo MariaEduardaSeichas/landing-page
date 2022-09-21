@@ -122,6 +122,8 @@ display: flex;
     background-color: #FFE4E1;
     min-height: 300px;
     min-width: 1000px;
+    position: relative;
+    top: -30px;
 }
 
 .desenvolvi{
