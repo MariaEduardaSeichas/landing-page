@@ -118,20 +118,28 @@ display: flex;
     background-color: #8ec1ee;
     height: 500px;
 }
-.desenvolvimento{
+
+.desenvolvimento {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .divs1 { grid-area: 1 / 1 / 2 / 2; }
+
+.divs1{
     background-color: #FFE4E1;
-    max-height: 5000px;
-    max-width: 2000px;
-    position: relative;
-    margin-top: -10px;
+    width: 500px;
+    height: 1500px;
+}
+.texto{
+    font-size: 40px;
+    font-style: italic;
 }
 
-.desenvolvi{
-  font-style: italic;
-  font-size: 40px;
-}
-
-.text{
-font-style: italic;
-font-size: 20px;
+.paragrafo{
+    font-size: 30px;
+    font-style: italic;
 }
