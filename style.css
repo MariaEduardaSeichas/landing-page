@@ -15,9 +15,9 @@ margin-left: 1200px;
 
 .centro{
 background-image: url("images/descendentes.jpg");
-height: 90vh;
-min-height: 800px;
-min-width: 1000px;
+height: 50vh;
+min-height: 1000px;
+min-width: 2000px;
 background-size: cover;
 display: flex;
 }
@@ -119,8 +119,8 @@ display: flex;
     height: 500px;
 }
 .desenvolvimento{
-    height: 90vh;
-    min-height: 900px;
+    background-color: #D8BFD8;
+    min-height: 500px;
     min-width: 1000px;
 }
 
