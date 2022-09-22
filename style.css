@@ -119,8 +119,8 @@ display: flex;
 }
 .desenvolvimento{
     background-color: #D8BFD8;
-    min-height: 700px;
-    min-width: 900px;
+    min-height: 600px;
+    min-width: 400px;
 
 }
 .eu{
@@ -143,9 +143,9 @@ display: flex;
 }
 
 .rodapé{
-    background-color: #D8BFD8;
-    min-height: 700px;
-    min-width: 900px;
+    background-color: #eeddee;
+    min-height: 400px;
+    min-width: 600px;
 }
 
 .roda{
