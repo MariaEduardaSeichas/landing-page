@@ -55,7 +55,7 @@ display: flex;
     float: left;
     height: 35vh;
     min-height: 500px;
-    min-width: 500px;
+    min-width:2000px;
   
 }
 
@@ -85,7 +85,7 @@ display: flex;
     float: left;
     height: 35vh;
     min-height: 500px;
-    min-width: 500px;
+    width: 2000px;
 }
 .prims{
     font-size: 40px;
@@ -100,10 +100,12 @@ display: flex;
 .div2{
     background-color: #E0FFFF;
     height: 500px;
+    width: 2000px;
 }
 .div3{
     background-color: #f0bece;
     height: 500px;
+    width: 2000px;
 }
 .div4{
     background-color: #a7a7fa;
@@ -116,6 +118,7 @@ display: flex;
 .div6{
     background-color: #8ec1ee;
     height: 500px;
+    width: 2000px;
 }
 .desenvolvimento{
     background-color: #f8d1f8;
