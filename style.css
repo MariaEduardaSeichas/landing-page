@@ -146,15 +146,17 @@ display: flex;
     background-color: #D8BFD8;
     min-height: 400px;
     min-width: 900px;
-    display: flex;
+    
 }
 
 .roda{
     font-size: 40px;
     font-style: italic;
+    float: left;
 }
 
 .rod{
     font-size: 40px;
     font-style: italic; 
+    float: left;
 }
