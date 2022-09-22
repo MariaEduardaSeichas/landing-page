@@ -66,24 +66,19 @@ display: flex;
 }
 
 .meninas{
-    float: left;
-    height: 35vh;
-    min-height: 500px;
-    min-width: 500px;
+    background-image: url("images/meninassuperpoderosas.jpg");
+    background-size: cover;
+
 }
 
 .xmen{
-    float: left;
-    height: 35vh;
-    min-height: 500px;
-    min-width: 500px;
+    background-image: url("images/x-men-evolutionr.jpg");
+    background-size: cover; 
 }
 .image{
         
-    float: left;
-    height: 35vh;
-    min-height: 500px;
-    min-width: 500px;
+    background-image: url("images/image.jpg");
+    background-size: cover;
 }
 .prims{
     font-size: 40px;
