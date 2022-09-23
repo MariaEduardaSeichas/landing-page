@@ -115,12 +115,6 @@ display: flex;
     width: 200px;  
     float: left;
 }
- .meio{
-    background-image: url("images/desenho.jpg");
-    background-size: cover;
-    min-height: 800px;
-    min-width: 1000px;
- }
 
 .texto{
     font-size: 40px;
@@ -159,7 +153,7 @@ display: flex;
 .divs2{
     background-image: url("images/Sou-Luna.jpg");
     min-height: 600px;
-    min-width: 1100px;
+    min-width: 100px;
     background-size: cover;
 }
 .roda{
