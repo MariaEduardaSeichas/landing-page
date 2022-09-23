@@ -74,7 +74,7 @@ display: flex;
 .div2{
     background-image: url("images/arthurrr.jpg");
     min-height: 500px;
-    min-width: 800px;
+    min-width: 900px;
     background-size: cover;
 }
 .div3{
@@ -86,6 +86,7 @@ display: flex;
 .div4{
     background-color: #f0bece;
     height: 500px;
+    width: 900px;
 }
 .div5{
     background-image: url("images/x-men-evolutionr.jpg");
@@ -96,13 +97,13 @@ display: flex;
 .div6{
     background-image: url("images/images.jpg");
     min-height: 500px;
-    min-width: 800px;
+    min-width: 900px;
     background-size: cover;
 }
 .desenvolvimento{
     background-color: #D8BFD8;
-    min-height: 400px;
-    min-width: 900px;
+    min-height: 500px;
+    min-width: 990px;
 
 }
 
@@ -118,7 +119,7 @@ display: flex;
     background-image: url("images/desenho.jpg");
     background-size: cover;
     min-height: 500px;
-    min-width: 800px;
+    min-width: 990px;
  }
 
 .texto{
@@ -133,8 +134,8 @@ display: flex;
 
 .rodapé{
     background-color: #D8BFD8;
-    min-height: 400px;
-    min-width: 700px;
+    min-height: 500px;
+    min-width: 900px;
     
 }
 
@@ -142,9 +143,4 @@ display: flex;
     font-size: 40px;
     font-style: italic;
     float: left;
-}
-
-.infan{
-    min-height: 995px;
-    min-width: 20px;
 }
