@@ -145,15 +145,15 @@ display: flex;
 
 .divs1{
     background-image: url("images/violetta.jpg");
-    min-height: 600px;
+    min-height: 700px;
     min-width: 1100px;
     background-size: cover;
 }
 
 .divs2{
     background-image: url("images/souluna.jpg");
-    min-height: 600px;
-    min-width: 1100px;
+    min-height: 700px;
+    min-width: 1090px;
     background-size: cover;
 }
 .roda{
