@@ -74,7 +74,7 @@ display: flex;
 .div2{
     background-image: url("images/arthurrr.jpg");
     min-height: 500px;
-    min-width: 1900px;
+    min-width: 1500px;
     background-size: cover;
 }
 .div3{
@@ -86,7 +86,7 @@ display: flex;
 .div4{
     background-color: #f0bece;
     height: 500px;
-    width: 1900px;
+    width: 1500px;
 }
 .div5{
     background-image: url("images/x-men-evolutionr.jpg");
@@ -97,7 +97,7 @@ display: flex;
 .div6{
     background-image: url("images/images.jpg");
     min-height: 500px;
-    min-width: 1900px;
+    min-width: 1500px;
     background-size: cover;
 }
 .desenvolvimento{
@@ -118,8 +118,8 @@ display: flex;
  .meio{
     background-image: url("images/desenho.jpg");
     background-size: cover;
-    min-height: 500px;
-    min-width: 1900px;
+    min-height: 800px;
+    min-width: 1000px;
  }
 
 .texto{
