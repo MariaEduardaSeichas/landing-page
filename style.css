@@ -108,6 +108,14 @@ display: flex;
 
 }
 
+.eu{
+    background-image: url("images/eu\ \(2\).jpg");
+    background-size: cover;
+    border-radius: 50%;
+    height: 200px;
+    
+}
+
 .texto{
     font-size: 40px;
     font-style: italic;
