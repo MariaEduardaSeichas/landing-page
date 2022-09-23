@@ -74,7 +74,7 @@ display: flex;
 .div2{
     background-image: url("images/arthurrr.jpg");
     min-height: 600px;
-    min-width: 1300px;
+    min-width: 1100px;
     background-size: cover;
 }
 .div3{
@@ -86,7 +86,7 @@ display: flex;
 .div4{
     background-color: #f0bece;
     height: 600px;
-    width: 1300px;
+    width: 1100px;
 }
 .div5{
     background-image: url("images/x-men-evolutionr.jpg");
@@ -95,9 +95,9 @@ display: flex;
     background-size: cover;
 }
 .div6{
-    background-image: url("images/images.jpg");
+    background-image: url("images/iCarly.jpg");
     min-height: 600px;
-    min-width: 1300px;
+    min-width: 1100px;
     background-size: cover;
 }
 .desenvolvimento{
