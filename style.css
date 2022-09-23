@@ -158,8 +158,8 @@ display: flex;
     background-size: cover;
 }
 .roda{
-    font-size: 40px;
+    font-size: 20px;
     font-style: italic;
     position: relative;
-    right: 10px;
+    right: 30px;
 }
