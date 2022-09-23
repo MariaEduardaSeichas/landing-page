@@ -167,7 +167,7 @@ display: flex;
 .divs3{
     background-image: url("images/hannah.jpg");
     min-height: 600px;
-    min-width: 1100px;
+    min-width: 700px;
     background-size: cover;
 }
 .roda{
