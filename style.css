@@ -82,16 +82,22 @@ display: flex;
     height: 500px;
 }
 .div4{
-    background-color: #a7a7fa;
-    height: 500px;
+    background-image: url("images/meninassuperpoderosas.jpg");
+    min-height: 500px;
+    min-width: 800px;
+    background-size: cover;
 }
 .div5{
-    background-color: #fafaae;
-    height: 500px;
+    background-image: url("images/x-men-evolutionr.jpg");
+    min-height: 500px;
+    min-width: 800px;
+    background-size: cover;
 }
 .div6{
-    background-color: #8ec1ee;
-    height: 500px;
+    background-image: url("images/images.jpg");
+    min-height: 500px;
+    min-width: 800px;
+    background-size: cover;
 }
 .desenvolvimento{
     background-color: #D8BFD8;
