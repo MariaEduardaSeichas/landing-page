@@ -129,7 +129,7 @@ display: flex;
 
 .rodapé{
     background-color: #D8BFD8;
-    min-height: 300px;
+    min-height: 200px;
     min-width: 2000px;
     
 }
@@ -160,5 +160,7 @@ display: flex;
 .roda{
     font-size: 40px;
     font-style: italic;
+    position: relative;
+    top: 10px;
     float: left;
 }
