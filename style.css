@@ -78,14 +78,14 @@ display: flex;
     background-size: cover;
 }
 .div3{
-    background-color: #f0bece;
-    height: 500px;
-}
-.div4{
     background-image: url("images/meninassuperpoderosas.jpg");
     min-height: 500px;
     min-width: 800px;
     background-size: cover;
+}
+.div4{
+    background-color: #f0bece;
+    height: 500px;
 }
 .div5{
     background-image: url("images/x-men-evolutionr.jpg");
