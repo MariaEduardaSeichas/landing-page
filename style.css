@@ -73,8 +73,8 @@ display: flex;
 }
 .div2{
     background-image: url("images/arthurrr.jpg");
-    min-height: 500px;
-    min-width: 2000px;
+    min-height: 400px;
+    min-width: 900px;
     background-size: cover;
 }
 .div3{
