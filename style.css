@@ -102,7 +102,7 @@ display: flex;
 }
 .desenvolvimento{
     background-color: #D8BFD8;
-    min-height: 300px;
+    min-height: 400px;
     min-width: 2000px;
     
 
@@ -112,7 +112,6 @@ display: flex;
     background-image: url("images/eu\ \(2\).jpg");
     background-size: cover;
     border-radius: 50%;
-    height: 200px;
     
 }
 
