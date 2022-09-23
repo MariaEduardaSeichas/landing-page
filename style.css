@@ -138,7 +138,38 @@ display: flex;
     min-width: 1900px;
     
 }
+.meio {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .divs1 { grid-area: 1 / 1 / 2 / 2; }
+    .diva2 { grid-area: 1 / 2 / 2 / 3; }
+    .div23 { grid-area: 1 / 3 / 2 / 4; }
 
+.divs1{
+    background-image: url("images/violetta.jpg");
+    min-height: 600px;
+    min-width: 1100px;
+    background-size: cover;
+}
+
+.divs2{
+    background-image: url("images/Sou-Luna.jpg");
+    min-height: 600px;
+    min-width: 1100px;
+    background-size: cover;
+}
+
+.divs3{
+    background-image: url("images/hannah.jpg");
+    min-height: 600px;
+    min-width: 1100px;
+    background-size: cover;
+}
 .roda{
     font-size: 40px;
     font-style: italic;
