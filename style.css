@@ -15,7 +15,7 @@ margin-left: 1200px;
 
 .centro{
 background-image: url("images/descendentes.jpg");
-min-height: 700px;
+min-height: 500px;
 min-width: 2000px;
 background-size: cover;
 display: flex;
@@ -51,11 +51,7 @@ display: flex;
     
 }
 
-.art{
-    background-image: url("images/arthurrr.jpg");
-    background-size: cover;
-  
-}
+
 
 .segundo{
     font-size: 30px;
@@ -65,21 +61,6 @@ display: flex;
     min-width: 900px;   
 }
 
-.meninas{
-    background-image: url("images/meninassuperpoderosas.jpg");
-    background-size: cover;
-
-}
-
-.xmen{
-    background-image: url("images/x-men-evolutionr.jpg");
-    background-size: cover; 
-}
-.image{
-        
-    background-image: url("images/image.jpg");
-    background-size: cover;
-}
 .prims{
     font-size: 40px;
     font-style: italic;
